@@ -1130,6 +1130,7 @@ ul {
 
 /* --- Contact Section --- */
 .contact-card-wrapper {
+    padding-bottom: 75px;
     max-width: 950px;
     margin: 0 auto;
 }
